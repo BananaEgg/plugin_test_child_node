@@ -1,7 +1,12 @@
 # geiger_test_plugin
 
-A new Flutter project.
+Getting started
+Click prepare node
+Insert data
+Get Child
+Get Parent than Child
 
+The data is not presented in the UI you should check the debugger 
 ## Getting Started
 
 This project is a starting point for a Flutter application.
